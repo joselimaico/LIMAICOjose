@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LIMAICOjose</string>
+    <string name="ingreso_tareas">Ingresar Tarea</string>
+    <string name="consulta_tarea">Consultar Tarea</string>
+    <string name="nombre_tarea">Nombre de la tarea</string>
+    <string name="fecha_limite">Fecha limite</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="boton_consultar">Consultar</string>
+    <string name="preference_file_key">com.example.root.limaicojose.PREFERENCE_FILE_KEY</string>
+    <string name="mostrar_fecha_limite">fechaLimite</string>
+    <string name="tareas">Tareas:</string>
+</resources>
